@@ -1,4 +1,4 @@
-# Bottles Of Beer
+# Bottles Of Beer :beers:
 
 This ruby script uses the OSX say system command to have your Mac 'sing' the 99 bottles of beer song.
 
