@@ -7,6 +7,8 @@ It's fun and it will annoy people too ;-)
 ### Usage
 After pulling the repo cd into the directory and use the following command and enjoy.
 
+``` shell
 $ ruby bottles_of_beer.rb
+```
 
 -- covard
