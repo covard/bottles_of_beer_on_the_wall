@@ -4,4 +4,9 @@ This ruby script uses the OSX say system command to have your Mac 'sing' the 99 
 
 It's fun and it will annoy people too ;-)
 
+### Usage
+After pulling the repo cd into the directory and use the following command and enjoy.
+
+$ ruby bottles_of_beer.rb
+
 -- covard
